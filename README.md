@@ -40,4 +40,4 @@ Kubernetes Meetup Januari 2019
 
 - [January Meetup Event](https://www.meetup.com/jakarta-kubernetes/events/257696465/)
 - Welcoming Slide for [January Meetup](https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0/edit?usp=sharing)
-- Video Exploring Knative [January Meetup Event] (https://www.youtube.com/watch?v=DZQOgIWN1pE)
+- Video Exploring Knative (https://www.youtube.com/watch?v=DZQOgIWN1pE)
